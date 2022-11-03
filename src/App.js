@@ -1,3 +1,12 @@
+// Create an application (languages of your choosing) 
+// using the National Parks API. The application should allow a 
+// customer to select a state and see a list of all national parks in 
+// that state. Results should show the park name, description, 
+// picture from the park (if available, if not the National Park logo), 
+// and provide a way to navigate to the park website. 
+// If the list is over 10 results, implement pagination.
+
+
 import { useState } from "react";
 import './App.css'; 
 
